@@ -18,7 +18,9 @@
 - Feedback is usually negative, things I did not do.
 - But what did I learnt about it? How can I grow from it?
 - Choose Growth Mindset
-
-# Genius
+## Genius
 - If Genius meant getting things done effortlessly, automatically, inborn gift that no body has, then yeah maybe I'm not genius.
 - But genius is working with all of my heart, with something I love, endlessly fascinating for me. then I am a genius, if i chose to be.
+
+## Resource
+1. [Grit... What's Next - Angela Duckworth](https://www.youtube.com/watch?v=FBM0P1IvlEw)
